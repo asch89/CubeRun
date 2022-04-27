@@ -1,6 +1,6 @@
 # CubeRun
 My first experience with game development, created in the Unity Game Engine and written in C#.
-A simple obstacle-avoidance game with 3 levels of increasing difficulty.
+A simple obstacle-avoidance game with 3 levels of increasing difficulty. The player automatically moves forward, pressing A to slide left and D to slide right.
 
 Download [HERE](https://github.com/asch89/CubeRun/releases/tag/v1.0)
 
