@@ -4,4 +4,4 @@ A simple obstacle-avoidance game with 3 levels of increasing difficulty.
 
 Download [HERE] (https://github.com/asch89/CubeRun/releases/tag/v1.0)
 
-![cubegameplay](https://user-images.githubusercontent.com/64753476/165425982-5c05b421-2fe3-4ec3-99b6-547559837f3e.png)
+![cubegameplay](https://user-images.githubusercontent.com/64753476/165426318-a8626e49-06e6-45a6-83d0-8e781430e48b.png)
